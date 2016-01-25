@@ -1,0 +1,10 @@
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\obj\Debug\EntityFrameworkTPHCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFrameworkTPHCodeFirst.dll.config
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFrameworkTPHCodeFirst.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFrameworkTPHCodeFirst.pdb
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFramework.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFramework.xml
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\obj\Debug\EntityFrameworkTPHCodeFirst.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHCodeFirst\EntityFrameworkTPHCodeFirst\obj\Debug\EntityFrameworkTPHCodeFirst.pdb

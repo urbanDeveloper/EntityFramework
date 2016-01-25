@@ -1,0 +1,10 @@
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EnitityFrameworkM2MDatabaseFirst.dll.config
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EnitityFrameworkM2MDatabaseFirst.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EnitityFrameworkM2MDatabaseFirst.pdb
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EntityFramework.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EntityFramework.xml
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\obj\Debug\EnitityFrameworkM2MDatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\obj\Debug\EnitityFrameworkM2MDatabaseFirst.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EnitityFrameworkM2MDatabaseFirst\EnitityFrameworkM2MDatabaseFirst\obj\Debug\EnitityFrameworkM2MDatabaseFirst.pdb

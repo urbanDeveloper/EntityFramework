@@ -1,0 +1,10 @@
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFrameworkModelApproach.dll.config
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFrameworkModelApproach.dll
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFrameworkModelApproach.pdb
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFramework.dll
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFramework.SqlServer.dll
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFramework.xml
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\bin\EntityFramework.SqlServer.xml
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\obj\Debug\EntityFrameworkCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\obj\Debug\EntityFrameworkModelApproach.dll
+C:\Users\Sunny\Desktop\EntityFrameworkModelApproach\EntityFrameworkModelApproach\obj\Debug\EntityFrameworkModelApproach.pdb

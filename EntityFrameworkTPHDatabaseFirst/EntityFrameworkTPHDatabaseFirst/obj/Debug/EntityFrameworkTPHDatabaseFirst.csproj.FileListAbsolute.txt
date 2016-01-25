@@ -1,0 +1,10 @@
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFrameworkTPHDatabaseFirst.dll.config
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFrameworkTPHDatabaseFirst.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFrameworkTPHDatabaseFirst.pdb
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFramework.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFramework.SqlServer.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFramework.xml
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\bin\EntityFramework.SqlServer.xml
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\obj\Debug\EntityFrameworkTPHDatabaseFirst.csprojResolveAssemblyReference.cache
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\obj\Debug\EntityFrameworkTPHDatabaseFirst.dll
+C:\Users\Sunny\Documents\Visual Studio 2013\Projects\EntityFrameworkTPHDatabaseFirst\EntityFrameworkTPHDatabaseFirst\obj\Debug\EntityFrameworkTPHDatabaseFirst.pdb

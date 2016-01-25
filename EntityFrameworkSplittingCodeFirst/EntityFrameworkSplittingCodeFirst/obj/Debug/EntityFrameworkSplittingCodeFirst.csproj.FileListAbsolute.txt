@@ -1,0 +1,10 @@
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFrameworkSplittingCodeFirst.dll.config
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFrameworkSplittingCodeFirst.dll
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFrameworkSplittingCodeFirst.pdb
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFramework.dll
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFramework.SqlServer.dll
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFramework.xml
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\bin\EntityFramework.SqlServer.xml
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\obj\Debug\EntityFrameworkSplittingCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\obj\Debug\EntityFrameworkSplittingCodeFirst.dll
+c:\users\sunny\documents\visual studio 2013\Projects\EntityFrameworkSplittingCodeFirst\EntityFrameworkSplittingCodeFirst\obj\Debug\EntityFrameworkSplittingCodeFirst.pdb
